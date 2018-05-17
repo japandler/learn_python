@@ -1,1 +1,3 @@
-# learn_python
+# Learn_Python
+# Let's learn some shit.
+
