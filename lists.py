@@ -1,0 +1,15 @@
+fruits = ["apples", "bananas", "grapefruit", "oranges"]
+veggies = ["tomatoes", "carrots", "onions", "garlic"]
+print(fruits)
+print(veggies)
+fruits.append("watermelons")
+veggies.append("potatoes")
+print(fruits)
+print(veggies)
+fruits.count('apples')
+veggies.count("carrots")
+fruits.sort()
+veggies.sort()
+print(fruits)
+print(veggies)
+veggies.pop(0)
